@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.07f12197.chunk.css",
-    "main.js": "/static/js/main.3dedc1cc.chunk.js",
-    "main.js.map": "/static/js/main.3dedc1cc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ff9a11ba.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ff9a11ba.js.map",
-    "static/js/2.163d84af.chunk.js": "/static/js/2.163d84af.chunk.js",
-    "static/js/2.163d84af.chunk.js.map": "/static/js/2.163d84af.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.07f12197.chunk.css.map": "/static/css/main.07f12197.chunk.css.map",
-    "static/js/2.163d84af.chunk.js.LICENSE.txt": "/static/js/2.163d84af.chunk.js.LICENSE.txt",
-    "static/media/aesthetic.c092c713.jpg": "/static/media/aesthetic.c092c713.jpg"
+    "main.css": "/nguyenne207.github.io/static/css/main.07f12197.chunk.css",
+    "main.js": "/nguyenne207.github.io/static/js/main.3dedc1cc.chunk.js",
+    "main.js.map": "/nguyenne207.github.io/static/js/main.3dedc1cc.chunk.js.map",
+    "runtime-main.js": "/nguyenne207.github.io/static/js/runtime-main.9ea084ec.js",
+    "runtime-main.js.map": "/nguyenne207.github.io/static/js/runtime-main.9ea084ec.js.map",
+    "static/js/2.163d84af.chunk.js": "/nguyenne207.github.io/static/js/2.163d84af.chunk.js",
+    "static/js/2.163d84af.chunk.js.map": "/nguyenne207.github.io/static/js/2.163d84af.chunk.js.map",
+    "index.html": "/nguyenne207.github.io/index.html",
+    "static/css/main.07f12197.chunk.css.map": "/nguyenne207.github.io/static/css/main.07f12197.chunk.css.map",
+    "static/js/2.163d84af.chunk.js.LICENSE.txt": "/nguyenne207.github.io/static/js/2.163d84af.chunk.js.LICENSE.txt",
+    "static/media/aesthetic.c092c713.jpg": "/nguyenne207.github.io/static/media/aesthetic.c092c713.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff9a11ba.js",
+    "static/js/runtime-main.9ea084ec.js",
     "static/js/2.163d84af.chunk.js",
     "static/css/main.07f12197.chunk.css",
     "static/js/main.3dedc1cc.chunk.js"
