@@ -9,7 +9,8 @@ interface Information {
 }
 
 const changeURL = (): void => {
-  window.location.assign("https://www.instagram.com/nguyen_isfine/");
+  //window.location.assign("https://www.instagram.com/nguyen_isfine/");
+  window.open("https://www.instagram.com/nguyen_isfine/");
 };
 
 function Card(props: Information) {
