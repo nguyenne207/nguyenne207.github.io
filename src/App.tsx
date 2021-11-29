@@ -8,7 +8,7 @@ const App: React.FC = () => {
       <Card
         name="Nguyen Tuan Nguyen"
         job="Student"
-        about="Nothin' here, just a stupid guy with his stuffs"
+        about="Nothin' here, just a stupid guy with his stuffs =)))))"
       />
     </div>
   );
